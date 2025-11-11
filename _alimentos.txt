@@ -1,0 +1,10 @@
+Pizza;Calabresa;Queijo;Frango com Catupiry;Brócolis;Portuguesa
+Hamburguer;Bacon;Cheddar;Duplo;Frango;Vegetariano
+Açaí;Morango;Banana;Leite Ninho;Paçoca;Nutella
+Sorvete;Chocolate;Baunilha;Morango;Cookies;Menta
+Suco;Laranja;Uva;Abacaxi;Maracujá;Limão
+Salgado;Coxinha;Empada;Pastel;Quibe;Enroladinho
+Refrigerante;Coca-Cola;Guaraná;Sprite;Pepsi;Fanta
+Sanduíche;Natural de Frango;Atum;Presunto e Queijo;Vegano
+Bolo;Chocolate;Cenoura;Milho;Coco;Red Velvet
+Tapioca;Queijo;Coco;Frango;Doce de Leite;Banana
